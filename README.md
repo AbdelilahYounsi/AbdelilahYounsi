@@ -1,10 +1,9 @@
 - # Hi there! 👋 I'm Abdelilah Younsi
 - # Data Science student
-- Data Science enthusiast currently pursuing my M2 in Data Science at École Polytechnique (l'X). I'm passionate about machine learning, deep learning, and developing innovative AI solutions.
+- Data Science enthusiast currently pursuing my M2 in Data Science at École Polytechnique (l'X).
 - 👀 I’m interested in ...
 ## 🌱 I’m currently learning ...
--
-- 💞️ I’m looking to collaborate on ...
+- Deep learning, Optimization theory, Causal inference, Big data frameworks, Generative models, Graph theory, Tail events analysis..
 ## 📫 Let's Connect
 - 📧 Email: abdelilah.younsi@polytechnique.edu
 ## Skills
@@ -23,7 +22,6 @@
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 <!---
