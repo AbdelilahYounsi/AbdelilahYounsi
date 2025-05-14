@@ -2,7 +2,7 @@
 Data Science enthusiast currently pursuing my M2 in Data Science at École Polytechnique (l'X).
 
 ## 🌱 I’m currently learning ...
-Deep learning, Optimization theory, Causal inference, Big data frameworks, Generative models, Graph theory, Tail events analysis..
+Computer vision, Reinforcement learning, Optimization theory, Machine learning with graphs..
 ## 📫 Let's Connect
 📧 Email: abdelilah.younsi@polytechnique.edu
 ## Skills
