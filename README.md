@@ -1,29 +1,65 @@
-# Hi there! 👋 I'm Abdelilah Younsi, a Data Science student
-Data Science enthusiast currently pursuing my M2 in Data Science at École Polytechnique (l'X).
+# 👋 Hi, I'm Abdelilah Younsi  
 
-## 🌱 I’m currently learning ...
-Computer vision, Reinforcement learning, Optimization theory, Machine learning with graphs..
-## 📫 Let's Connect
-📧 Email: abdelilah.younsi@polytechnique.edu
-## Skills
+🎓 Data Scientist & ML Engineer | M2 Data Science @ École Polytechnique  
+💡 Passionate about Computer Vision, Generative AI, and MLOps  
+📍 Paris–Palaiseau | ✉️ abdelilah.younsi@polytechnique.edu  
+🔗 [LinkedIn](https://linkedin.com/in/abdelilahyounsi) · [GitHub](https://github.com/AbdelilahYounsi)
 
-### Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
-### Machine Learning & Data Science
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+## 🚀 Featured Projects
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+### 🧠 [Iris Recognition - IDEMIA / Cleverlytics](https://github.com/AbdelilahYounsi)
+Training Vision Transformers for iris-based identification  
+- Improved open-source accuracy by **60%** and reduced false negatives from **50% → 20%** on UBIRIS dataset  
+- Integrated full **MLOps pipeline** (AWS SageMaker, MLflow, Docker) for deployment & experiment tracking  
 
-<!---
-AbdelilahYounsi/AbdelilahYounsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🤖 [Agentic Multimodal RAG System](https://github.com/AbdelilahYounsi)
+Voice-based RAG system built with **CrewAI**, **Whisper**, **Gemini API**, and **Milvus**  
+- Multi-agent setup handling transcription, retrieval, and generation  
+- Deployed via **Streamlit + Docker** for interactive voice queries  
+
+---
+
+### ✈️ [Flight Finder Agentic App](https://github.com/AbdelilahYounsi/flight-finder)
+Automated flight search and comparison tool  
+- Built with **CrewAI**, **Selenium**, and **BeautifulSoup**  
+- Integrates Gemini CLI for intelligent recommendations  
+
+---
+
+### 🎨 [Real-Time Neural Style Transfer](https://github.com/AbdelilahYounsi/style-transfer)
+Fast image stylization using CNN autoencoders and instance normalization  
+- Optimized with **perceptual losses** for real-time inference  
+- Built from scratch in **PyTorch**
+
+---
+
+### 🗞️ [Fine-Tuned Qwen 0.5B for Summarization](https://github.com/AbdelilahYounsi/Qwen-0.5-B-for-summarization)
+Fine-tuning with **LoRA** and **4-bit quantization** on CNN/DailyMail  
+- Leveraged **Unsloth** and **Hugging Face Transformers** for lightweight training  
+- Evaluated using **ROUGE** scores on Colab  
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python, C++, SQL, Java  
+**Frameworks:** PyTorch, Hugging Face, scikit-learn, XGBoost, Optuna  
+**MLOps:** MLflow, Kubeflow, Databricks, Airflow, Docker, AWS, Azure ML  
+**Data Engineering:** PySpark, Elasticsearch, Hadoop, MongoDB  
+**AI Domains:** Computer Vision, NLP, Time Series, RAG, Agentic AI  
+
+---
+
+## 🎓 Education
+- **École Polytechnique (l’X)** — M2 Data Science (2024–2025)  
+- **EMINES (UM6P)** — Industrial Engineering, Minor in Data Science (2021–2024)
+
+---
+
+## 📫 Let’s Connect
+I’m always open to collaborations in Vision, GenAI, and Applied ML.  
+📩 [Email me](mailto:abdelilah.younsi@polytechnique.edu)
