@@ -3,7 +3,7 @@
 🎓 Data Scientist & ML Engineer | M2 Data Science @ École Polytechnique  
 💡 Passionate about Computer Vision, Generative AI, and MLOps  
 📍 Paris–Palaiseau | ✉️ abdelilah.younsi@polytechnique.edu  
-🔗 [LinkedIn](https://linkedin.com/in/abdelilahyounsi) · [GitHub](https://github.com/AbdelilahYounsi)
+🔗 [LinkedIn]([https://linkedin.com/in/abdelilahyounsi](https://www.linkedin.com/in/abdelilah-younsi-264149292/))
 
 ---
 
