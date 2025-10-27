@@ -9,14 +9,14 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 [Iris Recognition - IDEMIA ]
+### 🧠 Iris Recognition - IDEMIA
 Training Vision Transformers for iris-based identification  
 - Trained a Vision Transformer for iris-based identification, achieving 0.26% false rejection on open-source data.  
 - Integrated the model into an AWS MLOps pipeline with packaging, REST deployment, and MLflow tracking.
 
 ---
 
-### 🤖 [Agentic Multimodal RAG System]
+### 🤖 Agentic Multimodal RAG System
 Voice-based RAG system built with **CrewAI**, **Whisper**, **Gemini API**, and **Milvus**  
 - Multi-agent setup handling transcription, retrieval, and generation  
 - Deployed via **Streamlit + Docker** for interactive voice queries  
