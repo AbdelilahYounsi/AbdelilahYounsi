@@ -9,14 +9,14 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 [Iris Recognition - IDEMIA / Cleverlytics](https://github.com/AbdelilahYounsi)
+### 🧠 [Iris Recognition - IDEMIA ]
 Training Vision Transformers for iris-based identification  
-- Improved open-source accuracy by **60%** and reduced false negatives from **50% → 20%** on UBIRIS dataset  
-- Integrated full **MLOps pipeline** (AWS SageMaker, MLflow, Docker) for deployment & experiment tracking  
+- Trained a Vision Transformer for iris-based identification, achieving 0.26% false rejection on open-source data.  
+- Integrated the model into an AWS MLOps pipeline with packaging, REST deployment, and MLflow tracking.
 
 ---
 
-### 🤖 [Agentic Multimodal RAG System](https://github.com/AbdelilahYounsi)
+### 🤖 [Agentic Multimodal RAG System]
 Voice-based RAG system built with **CrewAI**, **Whisper**, **Gemini API**, and **Milvus**  
 - Multi-agent setup handling transcription, retrieval, and generation  
 - Deployed via **Streamlit + Docker** for interactive voice queries  
@@ -25,8 +25,7 @@ Voice-based RAG system built with **CrewAI**, **Whisper**, **Gemini API**, and *
 
 ### ✈️ [Flight Finder Agentic App](https://github.com/AbdelilahYounsi/flight-finder)
 Automated flight search and comparison tool  
-- Built with **CrewAI**, **Selenium**, and **BeautifulSoup**  
-- Integrates Gemini CLI for intelligent recommendations  
+- Built with **CrewAI**, **Streamlit** and **Docker**  
 
 ---
 
@@ -47,10 +46,10 @@ Fine-tuning with **LoRA** and **4-bit quantization** on CNN/DailyMail
 ## 🧰 Tech Stack
 
 **Languages:** Python, C++, SQL, Java  
-**Frameworks:** PyTorch, Hugging Face, scikit-learn, XGBoost, Optuna  
-**MLOps:** MLflow, Kubeflow, Databricks, Airflow, Docker, AWS, Azure ML  
+**Frameworks:** Pandas, scikit-learn, PyTorch, XGBoost, Optuna, Unsloth, HG Transformers, CrewAI, vllm 
+**MLOps:** MLflow, Kubeflow, Airflow, Docker, AWS, Azure ML, Databricks, Snowflake 
 **Data Engineering:** PySpark, Elasticsearch, Hadoop, MongoDB  
-**AI Domains:** Computer Vision, NLP, Time Series, RAG, Agentic AI  
+**AI Domains:** Computer Vision, NLP, Time Series, Multimodal RAG, Agentic AI  
 
 ---
 
