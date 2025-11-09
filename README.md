@@ -16,7 +16,7 @@ Training Vision Transformers for iris-based identification
 
 ---
 
-### 🤖 Agentic Multimodal RAG System
+### 🤖 [Agentic Multimodal RAG System](https://github.com/AbdelilahYounsi/Multimodal-RAG/)
 Voice-based RAG system built with **CrewAI**, **Whisper**, **Gemini API**, and **Milvus**  
 - Multi-agent setup handling transcription, retrieval, and generation  
 - Deployed via **Streamlit + Docker** for interactive voice queries  
