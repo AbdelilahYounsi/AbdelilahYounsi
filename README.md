@@ -37,9 +37,9 @@ Fast image stylization using CNN autoencoders and instance normalization
 ---
 
 ### 🗞️ [Fine-Tuned Qwen 0.5B for Summarization](https://github.com/AbdelilahYounsi/Qwen-0.5-B-for-summarization)
-Fine-tuning with **LoRA** and **4-bit quantization** on CNN/DailyMail  
+Fine-tuning with **LoRA** on CNN/DailyMail  
 - Leveraged **Unsloth** and **Hugging Face Transformers** for lightweight training  
-- Evaluated using **ROUGE** scores on Colab  
+- Evaluated using **ROUGE** scores 
 
 ---
 
